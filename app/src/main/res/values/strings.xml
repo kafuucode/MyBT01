@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBT01</string>
+    <string name="bluetooth_icon_description">Bluetooth Icon</string>
+    <string name="turn_on_button">Turn On</string>
+    <string name="turn_off_button">Turn Off</string>
+    <string name="discoverable_button">Discoverable</string>
+    <string name="get_paired_device_button">Get Paired Device</string>
+</resources>
